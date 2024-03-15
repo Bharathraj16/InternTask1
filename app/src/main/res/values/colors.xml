@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+        <!---Customize your theme here.-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <color name="colorPrimary">@color/red</color>
+    <color name="colorPrimaryDark">@color/red</color>
+    <color name="colorAccent">@color/red</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#00a5ff</color>
+    <color name="loginBkColor">#f0f0f0</color>
+    <color name="purple">#99A2F3</color>
+    <color name="black">#040404</color>
+    <color name="red">#7F0200</color>
+
+    <!--colros for card-->
+    <color name="whiteCardColor">#fff</color>
+
+</resources>
